@@ -1,0 +1,17 @@
+Karakter
+(1) Arjuna          (13)(8)
+(2) Werkudara       (12)(7)
+(3) Yudhistira      (7)(13)
+(4) Nakula          (9)(10)
+(5) Sadewa          (9)(13)
+
+Alat Serang
+(1) Panah           (18)
+(2) Tombak          (12)
+(3) Kapak           (15)
+(4) Pedang          (19)
+
+Alat Perlindungan
+(1) Helm            (3)
+(2) Armor           (6)
+(3) Perisai         (4)
